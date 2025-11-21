@@ -97,3 +97,7 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+# Archivos pesados que no quiero subir
+Assets/Personajes/pingpong.ma
+Assets/Personajes/pingpong.ma.meta
+
